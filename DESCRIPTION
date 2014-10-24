@@ -4,14 +4,16 @@ Type: Package
 Title: This is an R package with Social Diagnosis 2000-2013 data converted to the R format
 Author: Przemyslaw Biecek <przemyslaw.biecek@gmail.com>
 Maintainer: Przemyslaw Biecek <przemyslaw.biecek@gmail.com>
-Description: Disclaimer: I (PBi) have converted the Diagnoza dataset from SPSS to R format to make it easier to use for researchers familiar with R. Diagnoza is an open dataset. I do not hold any rights to it. Use on own risk.
-	The Social Diagnosis dataset is available here: http://diagnoza.com/. 
-	For more information about dataset and report see SOCIAL DIAGNOSIS, reports; Czapiński J., Panek T.
+Description: Disclaimer I (PBi) have converted the Diagnoza dataset from SPSS to 
+	R format to make it easier to use for researchers familiar with R. 
+	Diagnoza is an open dataset. 
+	I do not hold any rights to it. 
+	Use on own risk.
+	The Social Diagnosis dataset is available at diagnoza.com. 
+	For more information about dataset and report see SOCIAL DIAGNOSIS, Czapiński J., Panek T.
 Repository: CRAN
 License: see the diagnoza.com website
 LazyLoad: yes
 LazyData: yes
 URL: http://diagnoza.com/
 Depends: R (>= 2.8.0)
-LinkingTo:
-Imports:
