@@ -10,7 +10,7 @@ Description: Disclaimer I (PBi) have converted the Diagnoza dataset from SPSS to
 	I do not hold any rights to it. 
 	Use on own risk.
 	The Social Diagnosis dataset is available at diagnoza.com. 
-	For more information about dataset and report see SOCIAL DIAGNOSIS, Czapiński J., Panek T.
+	For more information about dataset and report see SOCIAL DIAGNOSIS, Czapinski J., Panek T.
 Repository: CRAN
 License: see the diagnoza.com website
 LazyLoad: yes
