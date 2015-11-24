@@ -1,7 +1,7 @@
 Package: Diagnoza
-Version: 1.0
+Version: 1.1
 Type: Package
-Title: This is an R package with Social Diagnosis 2000-2013 data converted to the R format
+Title: This is an R package with Social Diagnosis 2000-2015 data converted to the R format
 Author: Przemyslaw Biecek <przemyslaw.biecek@gmail.com>
 Maintainer: Przemyslaw Biecek <przemyslaw.biecek@gmail.com>
 Description: Disclaimer I (PBi) have converted the Diagnoza dataset from SPSS to 

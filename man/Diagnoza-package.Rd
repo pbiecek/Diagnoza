@@ -1,7 +1,7 @@
 \name{Diagnoza-package}
 \docType{package}
 \title{
-Social Diagnosis 2000-2013 data converted to the R format
+Social Diagnosis 2000-2015 data converted to the R format
 }
 \description{
 Disclaimer: I (PBi) have converted the Diagnoza dataset from SPSS to R format to make it easier to use for researchers familiar with R. Diagnoza is an open dataset. I do not hold any rights to it. Use on own risk.
@@ -19,8 +19,8 @@ The results of the Social Diagnosis reveal not only the current state of Polish 
 \tabular{ll}{
 Package: \tab Diagnoza\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2013-07-24\cr
+Version: \tab 1.1\cr
+Date: \tab 2015-11-24\cr
 License: \tab see the diagnoza.com website\cr
 LazyLoad: \tab yes\cr
 }
