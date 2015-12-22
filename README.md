@@ -24,3 +24,16 @@ Social Diagnosis columns names indicate years:
 * for year 2011 column starts with "f",
 * for year 2013 column starts with "g",
 * for year 2015 column starts with "h".
+
+
+<h5> Installation of the Diagnoza package: </h5>
+To get started, install the latest version of **Diagnoza** from GitHub:
+```{Ruby}
+if (!require(devtools)) {
+    install.packages("devtools")
+    require(devtools)
+}
+install_github("pbiecek/Diagnoza")
+```
+Make sure you have [rtools](http://cran.r-project.org/bin/windows/Rtools/) installed on your computer.
+
