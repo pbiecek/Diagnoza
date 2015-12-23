@@ -13,6 +13,7 @@ Description: Disclaimer I (PBi) have converted the Diagnoza dataset from SPSS to
 	For more information about dataset and report see SOCIAL DIAGNOSIS, Czapinski J., Panek T.
 Repository: CRAN
 License: see the diagnoza.com website
+Depends: dplyr
 LazyLoad: yes
 LazyData: yes
 URL: http://diagnoza.com/
