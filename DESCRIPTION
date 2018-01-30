@@ -14,7 +14,7 @@ Description: Disclaimer I (PBi) have converted the Diagnoza dataset from SPSS to
 Repository: CRAN
 License: see the diagnoza.com website
 Depends: dplyr
-LazyLoad: yes
-LazyData: yes
+LazyLoad: no
+LazyData: no
 URL: http://diagnoza.com/
 Depends: R (>= 2.8.0)
