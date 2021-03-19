@@ -17,4 +17,3 @@ Depends: dplyr
 LazyLoad: no
 LazyData: no
 URL: http://diagnoza.com/
-Depends: R (>= 2.8.0)
